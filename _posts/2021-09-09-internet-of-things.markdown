@@ -18,9 +18,8 @@ Some of the benefits of IoT are:
 - Improved usage of resources
 - Reduced cost
 
-{:refdef: style="text-align: center;"}
 ![Internet of Things](assets/images/image2.png)                                                                                                      
-{: refdef}
+
 
 1. **Things**: Things are physical objects with embedded sensors. These sensors detect and measure any changes in the environment, such as changes in temperature, humidity, pressure, and so on. For example, a sensor in a security camera checks the movement in a house. The collected data is then sent to the gateway.
 2.	**Gateway**: Gateway is a bridge between objects and the cloud. It is a hardware device that collects data from the objects, processes it, and sends it to the cloud. Objects connect to the gateway through wireless transmission modes such as Wi-Fi, Bluetooth, cellular, and so on.
