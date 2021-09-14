@@ -7,9 +7,7 @@ categories: jekyll update
 A few years ago, concepts such as smart TVs, smart homes, and smart cities were unknown. Today, they have become a reality due to the advent of ‘Internet of Things’ (IoT). Gone are the days of mobile phones, laptops, and iPads for communicating and sharing data using the internet. Today, ‘Internet of Things’ has made it possible even for physical objects to interact and share data.
 
 ‘Internet of things’ or IoT is a system of interconnected devices or ‘things’ that can interact, collect, and share data through the internet. These ‘things’ can be your air conditioner, security camera, refrigerator, fitness band, or any physical object. When connected over the internet, these devices communicate, collect, and transfer data without human intervention. This data is then analysed to gain meaningful insights and initiate further actions as required.
-{:refdef: style="text-align: center;"}
-![Internet of Things](/assets/images/image1.png)                                                                                                      
-{: refdef}
+<img src="assets/images/image1.png" width="1024"/>
 
 A smart security camera, for instance, uses an IoT platform to monitor any activity in and around your house. The camera is connected to the internet, and monitoring is done using an app on your phone. Such cameras can recognise the difference between the resident, pet, or visitor. Whenever the camera identifies any suspicious activity, an alert is triggered on the app for the user to initiate the required action. Thus, a smart security camera built on the IoT concept is beneficial from a security perspective.
 
@@ -18,8 +16,8 @@ Some of the benefits of IoT are:
 - Improved usage of resources
 - Reduced cost
 
-![Internet of Things](/assets/images/image2.png)                                                                                                      
-
+                                                                                           
+<img src="/assets/images/image2.png" width="604"/>
 
 1. **Things**: Things are physical objects with embedded sensors. These sensors detect and measure any changes in the environment, such as changes in temperature, humidity, pressure, and so on. For example, a sensor in a security camera checks the movement in a house. The collected data is then sent to the gateway.
 2.	**Gateway**: Gateway is a bridge between objects and the cloud. It is a hardware device that collects data from the objects, processes it, and sends it to the cloud. Objects connect to the gateway through wireless transmission modes such as Wi-Fi, Bluetooth, cellular, and so on.
