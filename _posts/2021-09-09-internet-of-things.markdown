@@ -19,7 +19,7 @@ Some of the benefits of IoT are:
 - Reduced cost
 
 {:refdef: style="text-align: center;"}
-![Internet of Things](/assets/images/image2.png)                                                                                                      
+![Internet of Things](assets/images/image2.png)                                                                                                      
 {: refdef}
 
 1. **Things**: Things are physical objects with embedded sensors. These sensors detect and measure any changes in the environment, such as changes in temperature, humidity, pressure, and so on. For example, a sensor in a security camera checks the movement in a house. The collected data is then sent to the gateway.
