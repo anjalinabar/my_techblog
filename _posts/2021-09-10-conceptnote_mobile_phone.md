@@ -4,9 +4,7 @@ title:  "Concept Note - Mobile phone"
 date:   2021-09-09 16:36:33 +0100
 categories: jekyll update
 ---
-{:refdef: style="text-align: center;"}
-![Internet of Things](/assets/images/image3.jpg)                                                                                                      
-{: refdef}
+
 
 A mobile phone is a portable, wireless telephone which is used for communication. It can be easily carried in a pocket. When the mobile phones were first introduced, their only use was to make and receive calls. However, the modern mobile phones can be used to send text messages, emails, photos, videos as well as browse through the internet, listen to music, play games and can have many such other advanced features.
 
