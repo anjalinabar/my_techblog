@@ -1,4 +1,4 @@
----
+i---
 layout: post
 title:  "Internet of Things(IoT)"
 date:   2021-09-09 16:36:33 +0100
@@ -29,7 +29,7 @@ Although IoT is beneficial, there are a few limitations to it.
 - Dependency on internet connectivity
 - Complexity of underlying systems
 
-The application of IoT is not only limited to homes and communities. IoT platform is adopted by various industries such as manufacturing, pharmaceuticals, healthcare, and so on. The number of IoT connected things is growing every year. According to International Data Corporation (IDC)  , the number is expected to reach 41.6 billion by 2025. As per Gartner , the enterprise IoT platform market will grow close to $7.6 billion by 2024. IoT is the backbone of the fourth industrial revolution, Industry 4.0 . With technological advances such as 5G technology  and edge computing , IoT will continue to evolve in the coming years.
+The application of IoT is not only limited to homes and communities. IoT platform is adopted by various industries such as manufacturing, pharmaceuticals, healthcare, and so on. The number of IoT connected devices is growing every year. According to International Data Corporation (IDC), the number is expected to reach 41.6 billion by 2025. As per Gartner, the enterprise IoT platform market will grow close to $7.6 billion by 2024. IoT is the backbone of the fourth industrial revolution, Industry 4.0. With technological advances such as 5G technology  and edge computing, IoT will continue to evolve in the coming years.
 
 **Reference links**:
 1. [How IoT works](https://data-flair.training/blogs/how-iot-works/)
