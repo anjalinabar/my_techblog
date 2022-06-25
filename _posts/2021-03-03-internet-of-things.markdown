@@ -1,4 +1,4 @@
-i---
+---
 layout: post
 title:  "Internet of Things(IoT)"
 date:   2021-09-09 16:36:33 +0100
