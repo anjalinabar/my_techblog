@@ -8,7 +8,7 @@ A few years ago, concepts such as smart TVs, smart homes, and smart cities were 
 
 ‘Internet of things’ or IoT is a system of interconnected devices or ‘things’ that can interact, collect, and share data through the internet. These ‘things’ can be your air conditioner, security camera, refrigerator, fitness band, or any physical object. When connected over the internet, these devices communicate, collect, and transfer data without human intervention. This data is then analysed to gain meaningful insights and initiate further actions as required.
 
-![Figure 1: Internet of things](/assets/image1.png)
+![Figure 1: Internet of things](assets/image1.png)
 
 A smart security camera, for instance, uses an IoT platform to monitor any activity in and around your house. The camera is connected to the internet, and monitoring is done using an app on your phone. Such cameras can recognise the difference between the resident, pet, or visitor. Whenever the camera identifies any suspicious activity, an alert is triggered on the app for the user to initiate the required action. Thus, a smart security camera built on the IoT concept is beneficial from a security perspective.
 
