@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Internet of Things(IoT)"
-date:   2021-09-09 16:36:33 +0100
+date:   2022-03-03
 categories: jekyll update
 ---
 A few years ago, concepts such as smart TVs, smart homes, and smart cities were unknown. Today, they have become a reality due to the advent of ‘Internet of Things’ (IoT). Gone are the days of mobile phones, laptops, and iPads for communicating and sharing data using the internet. Today, ‘Internet of Things’ has made it possible even for physical objects to interact and share data.

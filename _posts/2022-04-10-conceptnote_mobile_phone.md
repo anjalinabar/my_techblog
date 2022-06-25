@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Concept Note - Mobile phone"
-date:   2021-09-09 16:36:33 +0100
+date:   2022-04-10
 categories: jekyll update
 ---
 
